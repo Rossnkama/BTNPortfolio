@@ -1,0 +1,22 @@
+.about-me {
+    background-position: center;
+    position: relative;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    height: 75%;
+    background-image: url('../resources/background.jpg');
+}
+ 
+/* .experiences {
+    background-image: url('../../images/IMG_20170810_212111_785.jpg');
+}
+ 
+.extras {
+    background-image: url('../../images/groupwrk.jpg');
+}
+ 
+.skills {
+    background-image: url('../../images/physics.png');
+} */
